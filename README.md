@@ -3,7 +3,7 @@
 <b>JetBrains Mono Regular</b> <br>
 <b>Karma</b> (Color theme) <br>
 <b>Material Product Icons</b> <br>
-<b>Material Icons</b> <br>
+<b>Material Icons</b> or <b>Symbols</b><br>
 
 # Dependency
 https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css
