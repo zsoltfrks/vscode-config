@@ -4,3 +4,6 @@
 <b>Karma</b> (Color theme) <br>
 <b>Material Product Icons</b> <br>
 <b>Material Icons</b> <br>
+
+# Dependency
+https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css
