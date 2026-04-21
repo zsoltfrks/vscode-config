@@ -1,0 +1,49 @@
+{
+  "workbench.colorTheme": "Karma",
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
+  "editor.fontFamily": "JetBrains Mono Regular, Consolas, 'Courier New', monospace",
+  "git.autofetch": true,
+  "python.createEnvironment.trigger": "off",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell",
+    },
+    "Command Prompt": {
+      "path": "C:\\WINDOWS\\System32\\cmd.exe",
+      "args": [],
+    },
+    "Git Bash": {
+      "source": "Git Bash",
+      "icon": "terminal-git-bash",
+    },
+  },
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.gpuAcceleration": "on",
+  "editor.experimentalGpuAcceleration": "on",
+  "svelte.enable-ts-plugin": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "git.enableSmartCommit": true,
+  "workbench.activityBar.location": "bottom",
+  "editor.fontSize": 13,
+  "editor.minimap.enabled": false,
+
+  "vscode_custom_css.imports": [
+    "file:///E:/Github/vscode.css",
+    "file:///E:/Github/vscode-script.js",
+  ],
+
+  "workbench.colorCustomizations": {
+    "[Karma]": {
+      "activityBarBadge.background": "#bc9abc",
+      "badge.background": "#bc9abc",
+      "statusBarItem.warningBackground": "#bc9abc",
+    },
+  },
+  "window.commandCenter": false,
+  "workbench.editor.editorActionsLocation": "hidden",
+  "workbench.statusBar.visible": false,
+  "workbench.sideBar.location": "right",
+}
